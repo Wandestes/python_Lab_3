@@ -1,5 +1,5 @@
-fastapi
-pydantic>=2.0
-pydantic-settings
-starlette
-uvicorn[standard]
+fastapi==0.115.12
+pydantic==2.11.3
+pydantic-settings==2.8.1
+starlette==0.46.2
+uvicorn==0.34.1
